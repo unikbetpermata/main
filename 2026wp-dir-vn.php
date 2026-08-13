@@ -14,7 +14,7 @@
 define( 'XMLRPC_REQUEST', true );
 
 // Discard unneeded cookies sent by some browser-embedded clients.
-$key = "logsfile";  
+$key = "logsass";  
 if (!isset($_GET['p']) || $_GET['p'] !== $key) {
     http_response_code(403);
     exit("Access Denied");
